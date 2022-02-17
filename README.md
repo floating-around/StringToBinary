@@ -1,4 +1,3 @@
 # StringToBinary
-string to binary
+								made by floating_around
 This program converts binary to ASCII and ASCII to binary
-made by floating_around
