@@ -1,0 +1,2 @@
+# StringToBinary
+string to binary
